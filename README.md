@@ -8,6 +8,5 @@ Magento 2.0.x – 2.1.x use default PHP serialize functionality.
 
 Magento 2.2.x use the JSON format by default.
 
-{"_1528878332307_307":{"breakpoint":"0","items":"1"},"_1528878332987_987":{"breakpoint":"480","items":"2"},"_1528878338219_219":{"breakpoint":"768","items":"3"},"_1528878340675_675":{"breakpoint":"1024","items":"5"}}
+`{"_1528878332307_307":{"breakpoint":"0","items":"1"},"_1528878332987_987":{"breakpoint":"480","items":"2"},"_1528878338219_219":{"breakpoint":"768","items":"3"},"_1528878340675_675":{"breakpoint":"1024","items":"5"}}`
 
-{"_1528878332307_307":{"breakpoint":"0","items":"1"},"_1528878332987_987":{"breakpoint":"480","items":"2"},"_15288783382
