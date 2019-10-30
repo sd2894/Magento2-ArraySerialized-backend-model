@@ -1,1 +1,6 @@
-
+<field id="responsiveItems" translate="label" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+    <label>Responsive Items</label>
+    <frontend_model>Sd\ArraySerialized\Block\Adminhtml\Form\Field\ResponsiveItems</frontend_model>
+    <backend_model>Magento\Config\Model\Config\Backend\Serialized\ArraySerialized</backend_model>
+    <comment>Object containing responsive options. Breakpoint set screen width and item set number of items visible starting from breakpoint width</comment>
+</field>
